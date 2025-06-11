@@ -1,7 +1,7 @@
 # Multithreaded Multiplayer Game Server
 
-High-performance, concurrent TCP server implementation demonstrating scalable backend architecture for real-time multiplayer applications
-Built in C with POSIX threading, designed for production-grade reliability and performance.
+Concurrent TCP server implementation with scalable backend architecture for real-time multiplayer applications.
+Built in C with POSIX threading designed for production-grade reliability and performance.
 
 ## Key Features
 
