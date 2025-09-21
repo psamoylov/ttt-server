@@ -7,7 +7,7 @@ Built in C with POSIX threading
 
 - Supports unlimited simultaneous client connections
 - Thread safety. Game states are synchronized across multiple game sessions
-- Memory-Safe Operations: Proper use of memory management for cleanup and leak prevention using ASAN
+- Uses ASAN: proper memory management for cleanup and leak prevention
 - Signal-based server gracefully terminates and properly cleans up resources
 
 ## Core Components
